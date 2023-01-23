@@ -31,7 +31,7 @@
 
 > this is a trial app to learn about linking react and rails.
 
-[link to the project](https://github.com/zemola/hello-rails-react.git)
+[link to the front end](https://github.com/zemola/hello-rails-front-end.git)
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -94,7 +94,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-> `https://github.com/zemola/hello-rails-react.git`
+> `https://github.com/zemola/hello-rails-back-end.git`
 
 ### Install
 
@@ -115,9 +115,9 @@ To run tests, run the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **OlatunjiAzeem**
+👤 **Olatunji Azeem**
 
-- GitHub: [@zemola](https://github.com/zemola)
+- GitHub: [@Zemola](https://github.com/zemola)
 - LinkedIn:  [@Olatunji Azeem](https://www.linkedin.com/in/olatunji-azeem/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B8F6ODWk4TBuOWR8C3JI4zQ%3D%3D)
 
 
@@ -127,7 +127,7 @@ To run tests, run the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/zemola/hello-rails-react.git/issues).
+Feel free to check the [issues page](https://github.com/zemola/hello-rails-back-end.git/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
