@@ -1,24 +1,153 @@
-# README
+<a name="readme-top"></a>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# 📗 Table of Contents
 
-Things you may want to cover:
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
 
-* Ruby version
+<!-- PROJECT DESCRIPTION -->
+## DESCRIPTION
 
-* System dependencies
+> this is a trial app to learn about linking react and rails.
 
-* Configuration
+[link to the front end](https://github.com/zemola/hello-rails-front-end.git)
+## 🛠 Built With <a name="built-with"></a>
 
-* Database creation
+### Tech Stack <a name="tech-stack"></a>
 
-* Database initialization
+> The following tech stack was used:
 
-* How to run the test suite
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">Ruby</a></li>
+    <li><a href="https://reactjs.org/">Ruby On Rails</a></li>
+  </ul>
+</details>
 
-* Services (job queues, cache servers, search engines, etc.)
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://expressjs.com/">Puma</a></li>
+  </ul>
+</details>
 
-* Deployment instructions
+<details>
+  <summary>Style</summary>
+  <ul>
+    <li><a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/">Bootstrap</a></li>
+  </ul>
+</details>
 
-* ...
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> The Following is how you can use the Blog App
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+> Ruby version : `ruby 3.1.2p20`
+    run `ruby -v`
+
+> SQLite3 version : `3.40.0`
+    run `sqlite3 --version`
+
+> npm version : `8.15.0`
+    run `npm -v`
+
+> yarn version : `1.22.19`
+    run `yarn -v`
+
+> Database : **PostgreSQL**
+### Setup
+
+Clone this repository to your desired folder:
+
+> `https://github.com/zemola/hello-rails-back-end.git`
+
+### Install
+
+Install this project with:
+
+> `bundle install`
+
+### Usage
+
+To run the project, execute the following command:
+
+`rails server` or `rails s` 
+### Run tests
+
+To run tests, run the following command:
+`rspec spec`
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Olatunji Azeem**
+
+- GitHub: [@Zemola](https://github.com/zemola)
+- LinkedIn:  [@Olatunji Azeem](https://www.linkedin.com/in/olatunji-azeem/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B8F6ODWk4TBuOWR8C3JI4zQ%3D%3D)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/zemola/hello-rails-back-end.git/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+> Write a message to encourage readers to support your project
+
+If you like this project I will Appreciate a Star
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Give credit to everyone who inspired your codebase.
+
+I would like to thank Microverse
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
